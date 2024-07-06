@@ -1,6 +1,4 @@
-# Data-Analytics
-My Data Analytics Journey !!
-
+# Step 1 : Excel Analytics
 ## Sales Report :
 
 
