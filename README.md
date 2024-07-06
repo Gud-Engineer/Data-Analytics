@@ -1,4 +1,4 @@
-<<<<<<< Excel-Analytics
+<<<<<<< My Data Analytics Journey main !!
 # Step 1 : Excel Analytics
 ## Sales Report :
 
@@ -45,6 +45,4 @@
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
 =======
-# Data-Analytics
-My Data Analytics Journey !!
->>>>>>> main
+
